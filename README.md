@@ -1,0 +1,2 @@
+This allows you to do one click wiki searches because I am super lazy! Download these files into their own little folder anywhere on your computer, go to brave://extensions/ or chrome://extensions, enable developer mode (top right) then click "Load unpacked". Select the folder that you've extracted the files.
+After that, you should be able to highlight anything then click on "Search Wiki" and it will automatically search the Wiki for it. If there's an exact entry, it will bring you straight to that page. If there isn't, it will search Wiki for you. That's it! 
